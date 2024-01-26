@@ -29,3 +29,7 @@ Now set start command in package.json:
 Then run the app
 
 ```yarn start```
+
+Loaders to load the newly added style sheet css files, images , svgs etc...
+
+```yarn add -D css-loader style-loader```
