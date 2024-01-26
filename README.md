@@ -33,3 +33,6 @@ Then run the app
 Loaders to load the newly added style sheet css files, images , svgs etc...
 
 ```yarn add -D css-loader style-loader```
+
+### NOTE:
+Here in react ```<></>``` will be used when using mutliple children elements. this symbol is called as React fragment.
