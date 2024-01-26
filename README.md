@@ -48,3 +48,5 @@ Create a webpack.common.js file and remove the section " mode: 'development',"
 
  inorder to merge or maintain the communication betwwen the prod and dev configs below pack need to be installed
  ```yarn add -D webpack-merge```
+
+ Note: to run app from bunlle.js file location use ```npx serve```
