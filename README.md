@@ -8,4 +8,3 @@ Node
 ```yarn add react react-dom```
 
 ```yarn add -D typescript @types/react @types/react-dom```
-
