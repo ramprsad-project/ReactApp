@@ -50,3 +50,11 @@ Create a webpack.common.js file and remove the section " mode: 'development',"
  ```yarn add -D webpack-merge```
 
  Note: to run app from bunlle.js file location use ```npx serve```
+
+ ## Developer Note : 
+
+ use Prettier, Husky, and ESlint packages for better coding experience.
+
+ Prettier used to format the code.
+ ESLint will detect the javascript errors and describe with resolution.
+ husky will prevent the commit to git if any java script erorrs / formatting errors found. Thus this make sure the developer should commit their error free code only.
